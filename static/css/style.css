@@ -9,8 +9,12 @@ body {
 }
 
 form{
-    color: "bg-dark";
+    color: #343a40;
 }
 ul {
-    color: "bg-dark";
+    color: #343a40;
+}
+li {
+    color: #343a40;
+
 }
